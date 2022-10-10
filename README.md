@@ -4,7 +4,7 @@ Hii there, Aditya this side Great to see you here!👋</h1>
 <h3>Competitive Coder||Web Developer||An Autodidact😁</h3>
 
 I'm a Computer Science student currently in my second year of college.
-I love learning and exploring new things i do coding on regular basis and learning development alongside as well.
+I love learning and exploring new things i do coding on regular basis and I'm learning development alongside as well.
 <br><br>
 ## Languages and Tools:
 <p align="center">
