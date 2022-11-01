@@ -8,19 +8,19 @@ I love learning and exploring new things i do coding on regular basis and I'm le
 <br><br>
 ## Languages and Tools:
 <p align="center">
-<img src=https://img.icons8.com/color/344/c-plus-plus-logo.png height="45"/>
-<img src=https://img.icons8.com/color/344/java-coffee-cup-logo--v1.png height="45"/>
-<img src=https://img.icons8.com/stickers/344/python.png height="45"/>
-<img src=https://img.icons8.com/color/344/html-5--v1.png height="45"/>
-<img src=https://img.icons8.com/fluency/344/css3.png height="45"/>
-<img src=https://img.icons8.com/color/344/javascript--v1.png height="45"/>
-<img src=https://img.icons8.com/fluency/344/my-sql.png height="45"/>
-<img src=https://img.icons8.com/plasticine/344/react.png height="45"/>
-<img src="https://img.shields.io/badge/VS%20Code-007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white" height="45"/>
-<img src="https://img.shields.io/badge/-Git-black?&style=for-the-badge&logo=git" height="45"/><br><br>
+<img src=https://img.icons8.com/color/344/c-plus-plus-logo.png height="85"/>
+<img src=https://img.icons8.com/color/344/java-coffee-cup-logo--v1.png height="85"/>
+<img src=https://img.icons8.com/stickers/344/python.png height="85"/>
+<img src=https://img.icons8.com/color/344/html-5--v1.png height="85"/>
+<img src=https://img.icons8.com/fluency/344/css3.png height="85"/>
+<img src=https://img.icons8.com/color/344/javascript--v1.png height="85"/>
+<img src=https://img.icons8.com/fluency/344/my-sql.png height="85"/>
+<img src=https://img.icons8.com/plasticine/344/react.png height="85"/>
+<img src="https://img.shields.io/badge/VS%20Code-007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white" height="75"/>
+<img src="https://img.shields.io/badge/-Git-black?&style=for-the-badge&logo=git" height="85"/><br><br>
+<h2>Badges</h2>
 
-
-
+[![@executioner_a's Holopin board](https://holopin.me/executioner_a)](https://holopin.io/@executioner_a)
 
 <!---
 Aditya-devp/Aditya-devp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
