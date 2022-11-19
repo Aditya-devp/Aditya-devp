@@ -1,6 +1,6 @@
 <img src=https://camo.githubusercontent.com/f7894ccfe5f969fc2ef0c0023ae611e88da80b9381f0b90360d58b158d27593b/68747470733a2f2f692e696d6775722e636f6d2f344153616679302e706e67>
 <h1 align="center">Welcome to my profile.<br><br>
-Hii there, Aditya this side Great to see you here!👋</h1>
+Hii there, Aditya this side Great to see you here!<img src="https://raw.githubusercontent.com/Rishabh2804/Rishabh2804/master/Resources/wave.gif" height="50" alt="Waving hand animated gif" </h1>
 <h3>Competitive Coder||Web Developer||An Autodidact😁</h3>
 
 I'm a Computer Science student currently in my second year of college.
