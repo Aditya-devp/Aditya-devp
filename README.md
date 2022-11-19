@@ -19,7 +19,7 @@ I love learning and exploring new things i do coding on regular basis and I'm le
 <img src="https://img.shields.io/badge/VS%20Code-007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white" height="65"/>
 <img src="https://img.shields.io/badge/-Git-black?&style=for-the-badge&logo=git" height="85"/><br>
   
-  <h2 align="left">Connect with me:</h2>
+  <h2 align="left">Connect with me 👀:</h2>
 <p align="left">
 <a href="https://linkedin.com/in/aditya-singh-97396a21a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adityasingh" height="40" width="60" /></a>
   <a href="https://twitter.com/adityas48654968" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="adityas48654968" height="30" width="60" /></a>
@@ -30,11 +30,11 @@ I love learning and exploring new things i do coding on regular basis and I'm le
 </p>
 <br>
 
-<h2>Badges</h2>
+<h2>Badges🏅🏅</h2>
 
 [![@executioner_a's Holopin board](https://holopin.me/executioner_a)](https://holopin.io/@executioner_a)
 
-<h2>Stats</h2>
+<h2>Stats📊📊</h2>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aditya-devp&show_icons=true&locale=en" alt="aditya-devp"/></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aditya-devp&" alt="aditya-devp" /></p>
 
