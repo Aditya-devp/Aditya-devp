@@ -35,7 +35,7 @@ I love learning and exploring new things i do coding on regular basis and I'm le
 [![@executioner_a's Holopin board](https://holopin.me/executioner_a)](https://holopin.io/@executioner_a)
 
 <h2>Stats📊📊</h2>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aditya-devp&show_icons=true&locale=en" alt="aditya-devp"/></p>
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aditya-devp&" alt="aditya-devp" /></p>
 
 <!---
