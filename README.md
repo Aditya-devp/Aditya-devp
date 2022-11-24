@@ -8,7 +8,7 @@ Hii there, Aditya this side Great to see you here!<img src="https://raw.githubus
 I'm a Computer Science student currently in my second year of college.
 I love learning and exploring new things i do coding on regular basis and I'm learning development as well. 
 
-<br><br><br><br><br>
+<br><br><br><br>
   <h2> Languages and Tools:</h2>
   
  <img align="right" alt= "Coding" width="290" src="https://camo.githubusercontent.com/e20822b4282c07ffd010cd05f855a6561d3b62358ca9e607e4901288dd748fcb/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323133313939332f73637265656e73686f74732f343934383733362f74686f75676874776f726b732d6769665f6472696262626c652e676966 "/>
@@ -22,7 +22,7 @@ I love learning and exploring new things i do coding on regular basis and I'm le
 <img src=https://img.icons8.com/fluency/344/my-sql.png height="65"/>
 <img src=https://img.icons8.com/plasticine/344/react.png height="65"/>
 <img src="https://img.shields.io/badge/VS%20Code-007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white" height="55"/>
-<img src="https://img.shields.io/badge/-Git-black?&style=for-the-badge&logo=git" height="85"/><br>
+<img src="https://img.shields.io/badge/-Git-black?&style=for-the-badge&logo=git" height="55"/><br>
   <br><br>
   <h2 align="left">Connect with me 👀:</h2>
 <p align="left">
