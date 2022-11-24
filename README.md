@@ -14,15 +14,15 @@ I love learning and exploring new things i do coding on regular basis and I'm le
   
  <img align="right" alt= "Coding" width="300" src="https://camo.githubusercontent.com/e20822b4282c07ffd010cd05f855a6561d3b62358ca9e607e4901288dd748fcb/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323133313939332f73637265656e73686f74732f343934383733362f74686f75676874776f726b732d6769665f6472696262626c652e676966 "/>
 <p align="center">
-<img src=https://img.icons8.com/color/344/c-plus-plus-logo.png height="85"/>
-<img src=https://img.icons8.com/color/344/java-coffee-cup-logo--v1.png height="75"/>
-<img src=https://img.icons8.com/stickers/344/python.png height="75"/>
-<img src=https://img.icons8.com/color/344/html-5--v1.png height="75"/>
-<img src=https://img.icons8.com/fluency/344/css3.png height="75"/>
-<img src=https://img.icons8.com/color/344/javascript--v1.png height="75"/>
-<img src=https://img.icons8.com/fluency/344/my-sql.png height="75"/>
-<img src=https://img.icons8.com/plasticine/344/react.png height="75"/>
-<img src="https://img.shields.io/badge/VS%20Code-007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white" height="65"/>
+<img src=https://img.icons8.com/color/344/c-plus-plus-logo.png height="65"/>
+<img src=https://img.icons8.com/color/344/java-coffee-cup-logo--v1.png height="65"/>
+<img src=https://img.icons8.com/stickers/344/python.png height="65"/>
+<img src=https://img.icons8.com/color/344/html-5--v1.png height="65"/>
+<img src=https://img.icons8.com/fluency/344/css3.png height="65"/>
+<img src=https://img.icons8.com/color/344/javascript--v1.png height="65"/>
+<img src=https://img.icons8.com/fluency/344/my-sql.png height="65"/>
+<img src=https://img.icons8.com/plasticine/344/react.png height="65"/>
+<img src="https://img.shields.io/badge/VS%20Code-007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white" height="55"/>
 <img src="https://img.shields.io/badge/-Git-black?&style=for-the-badge&logo=git" height="85"/><br>
   <br><br>
   <h2 align="left">Connect with me 👀:</h2>
