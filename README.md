@@ -2,10 +2,10 @@
 <h1 align="center">Welcome to my profile.<br>
 Hii there, Aditya this side Great to see you here!<img src="https://raw.githubusercontent.com/Rishabh2804/Rishabh2804/master/Resources/wave.gif" height="50" alt="Waving hand animated gif"</h1>
 <h2 align="Center">Competitive Coder||Web Developer||An Autodidact😁</h2>
-<img align="left" alt= "Coding" width="300" src="https://camo.githubusercontent.com/ce3a4e7a6ec90f401d6dfd4865da0cc60f0647ee1dec12eb62550e489346f825/68747470733a2f2f7777772e636f6465636f726e6572732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f30352f73656e696f722d66726f6e742d656e642d646576656c6f7065722d6f70656e696e67732d312e676966"/><br>
+<!-- <img align="left" alt= "Coding" width="300" src="https://camo.githubusercontent.com/ce3a4e7a6ec90f401d6dfd4865da0cc60f0647ee1dec12eb62550e489346f825/68747470733a2f2f7777772e636f6465636f726e6572732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f30352f73656e696f722d66726f6e742d656e642d646576656c6f7065722d6f70656e696e67732d312e676966"/><br> -->
 I'm a Computer Science student currently in my second year of college.
 I love learning and exploring new things i do coding on regular basis and I'm learning development as well. 
-<br><br><br><br><br>
+<br><br>
   
   <h2> Languages and Tools:</h2>
  <img align="right" alt= "Coding" width="290" src="https://camo.githubusercontent.com/e20822b4282c07ffd010cd05f855a6561d3b62358ca9e607e4901288dd748fcb/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323133313939332f73637265656e73686f74732f343934383733362f74686f75676874776f726b732d6769665f6472696262626c652e676966 "/>
