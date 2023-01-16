@@ -25,7 +25,7 @@ I love learning and exploring new things i do coding on regular basis and I'm le
 <p align="left">
 <a href="https://linkedin.com/in/aditya-singh-97396a21a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adityasingh" height="40" width="60" /></a>
   <a href="https://twitter.com/adityas48654968" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="adityas48654968" height="30" width="60" /></a>
-<a href="https://www.leetcode.com/aditya_exec" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aditya_exec" height="40" width="65" /></a>
+<!-- <a href="https://www.leetcode.com/aditya_exec" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aditya_exec" height="40" width="65" /></a>-->
 <a href="https://auth.geeksforgeeks.org/user/aditya6774" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="aditya6774" height="30" width="75" /></a>
   <a href="https://codeforces.com/profile/aditya_exe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="aditya_exe" height="30" width="65" /></a>
   
