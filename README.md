@@ -43,18 +43,10 @@ I love learning and exploring new things i do coding on regular basis and I'm le
 
 <h2>Stats📊📊</h2>
 
-<div style="display: flex; justify-content: space-between;">
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aditya-devp&show_icons=true&theme=merko&locale=en" alt="aditya-devp"/></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aditya-devp&&theme=tokyonight" alt="aditya-devp" /></p>
 
-  <div>
-    <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=aditya-devp&show_icons=true&theme=merko&locale=en" alt="aditya-devp"/></p>
-    <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=aditya-devp&&theme=tokyonight" alt="aditya-devp" /></p>
-  </div>
-
-  <div>
-    <br><br>
-    <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aditya-devp&theme=radical" alt="aditya-devp" /></a> </p>
-  </div>
-</div>
+  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aditya-devp&theme=radical" alt="aditya-devp" /></a> </p>
 
 <!---
 Aditya-devp/Aditya-devp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
