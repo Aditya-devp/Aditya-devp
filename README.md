@@ -11,22 +11,26 @@ I love learning and exploring new things i do coding on regular basis and I'm le
   <h2> Languages and Tools:</h2>
  <img align="right" alt= "Coding" width="290" src="https://camo.githubusercontent.com/e20822b4282c07ffd010cd05f855a6561d3b62358ca9e607e4901288dd748fcb/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323133313939332f73637265656e73686f74732f343934383733362f74686f75676874776f726b732d6769665f6472696262626c652e676966 "/>
 <p align="center">
-<img src=https://img.icons8.com/color/344/c-plus-plus-logo.png height="65"/>
-<img src=https://img.icons8.com/color/344/java-coffee-cup-logo--v1.png height="65"/>
-<img src=https://img.icons8.com/stickers/344/python.png height="65"/>
-<img src=https://img.icons8.com/color/344/html-5--v1.png height="65"/>
-<img src=https://img.icons8.com/fluency/344/css3.png height="65"/>
-<img src=https://img.icons8.com/color/344/javascript--v1.png height="65"/>
-<img src=https://img.icons8.com/fluency/344/my-sql.png height="65"/>
-<img src=https://img.icons8.com/plasticine/344/react.png height="65"/>
+<img src=https://img.icons8.com/color/344/c-plus-plus-logo.png height="55"/>
+<img src=https://img.icons8.com/color/344/java-coffee-cup-logo--v1.png height="55"/>
+<img src=https://img.icons8.com/stickers/344/python.png height="55"/>
+<img src=https://img.icons8.com/color/344/html-5--v1.png height="55"/>
+<img src=https://img.icons8.com/fluency/344/css3.png height="55"/>
+<img src=https://img.icons8.com/color/344/javascript--v1.png height="55"/>
+<img src=https://img.icons8.com/fluency/344/my-sql.png height="55"/>
+<img src=https://img.icons8.com/plasticine/344/react.png height="55"/>
+<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="50" height="55"/> </a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="55"/> </a>
+<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="70" height="65"/> </a>
 <img src="https://img.shields.io/badge/VS%20Code-007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white" height="55"/>
 <img src="https://img.shields.io/badge/-Git-black?&style=for-the-badge&logo=git" height="55"/><br>
   <br><br>
-  <h2 align="left">Connect with me 👀:</h2>
+  <h2 align="left">My Coding Profiles 👀:</h2>
 <p align="left">
-<a href="https://linkedin.com/in/aditya-singh-97396a21a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adityasingh" height="40" width="60" /></a>
-  <a href="https://twitter.com/adityas48654968" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="adityas48654968" height="30" width="60" /></a>
-<!-- <a href="https://www.leetcode.com/aditya_exec" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aditya_exec" height="40" width="65" /></a>-->
+<!-- <a href="https://linkedin.com/in/aditya-singh-97396a21a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adityasingh" height="40" width="60" /></a>
+  <a href="https://twitter.com/adityas48654968" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="adityas48654968" height="30" width="60" /></a> -->
+ <a href="https://www.hackerrank.com/singhaditya6774" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="singhaditya6774" height="30" width="40" /></a>
+ <a href="https://www.leetcode.com/aditya_exec" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aditya_exec" height="40" width="65" /></a>
 <a href="https://auth.geeksforgeeks.org/user/aditya6774" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="aditya6774" height="30" width="75" /></a>
   <a href="https://codeforces.com/profile/aditya_exe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="aditya_exe" height="30" width="65" /></a>
   
@@ -35,7 +39,7 @@ I love learning and exploring new things i do coding on regular basis and I'm le
 
 <h2>Badges🏅🏅</h2>
 
-[![@executioner_a's Holopin board](https://holopin.me/executioner_a)](https://holopin.io/@executioner_a)
+[![@executioner_a's Holopin board ](https://holopin.me/executioner_a)](https://holopin.io/@executioner_a)
 
 <h2>Stats📊📊</h2>
   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aditya-devp&show_icons=true&theme=merko&locale=en" alt="aditya-devp"/></p>
