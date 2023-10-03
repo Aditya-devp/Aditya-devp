@@ -4,8 +4,8 @@
 Hii there, Aditya this side Great to see you here!<img src="https://raw.githubusercontent.com/Rishabh2804/Rishabh2804/master/Resources/wave.gif" height="50" alt="Waving hand animated gif"</h1>
 <h2 align="Center">Competitive Coder||Web Developer||An Autodidact😁</h2>
 <!-- <img align="left" alt= "Coding" width="300" src="https://camo.githubusercontent.com/ce3a4e7a6ec90f401d6dfd4865da0cc60f0647ee1dec12eb62550e489346f825/68747470733a2f2f7777772e636f6465636f726e6572732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f30352f73656e696f722d66726f6e742d656e642d646576656c6f7065722d6f70656e696e67732d312e676966"/><br> -->
-I'm a Computer Science student currently in my second year of college.
-I love learning and exploring new things i do coding on regular basis and I'm learning development as well. 
+
+I'm a Computer Science student with a genuine passion for coding and a curiosity for development. Currently a senior in college, I'm dedicated to honing my skills and embracing growth in the tech world.
 <br><br>
   
   <h2> Languages and Tools:</h2>
@@ -25,11 +25,10 @@ I love learning and exploring new things i do coding on regular basis and I'm le
 <img src="https://img.shields.io/badge/VS%20Code-007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white" height="55"/>
 <img src="https://img.shields.io/badge/-Git-black?&style=for-the-badge&logo=git" height="55"/><br>
   <br><br>
-  <h2 align="left">My Coding Profiles 👀:</h2>
+  <h2 align="left">My Profiles 👀:</h2>
 <p align="left">
-<!-- <a href="https://linkedin.com/in/aditya-singh-97396a21a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adityasingh" height="40" width="60" /></a>
-  <a href="https://twitter.com/adityas48654968" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="adityas48654968" height="30" width="60" /></a> -->
- <a href="https://www.hackerrank.com/singhaditya6774" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="singhaditya6774" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/aditya-singh-97396a21a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adityasingh" height="30" width="60" /></a>
+  <a href="https://twitter.com/adityas48654968" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="adityas48654968" height="30" width="60" /></a>
  <a href="https://www.leetcode.com/aditya_exec" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aditya_exec" height="40" width="65" /></a>
 <a href="https://auth.geeksforgeeks.org/user/aditya6774" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="aditya6774" height="30" width="75" /></a>
   <a href="https://codeforces.com/profile/aditya_exe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="aditya_exe" height="30" width="65" /></a>
