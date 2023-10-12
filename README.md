@@ -45,7 +45,7 @@ I'm a Computer Science student with a genuine passion for coding and a curiosity
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=aditya-devp&show_icons=true&theme=merko&locale=en" alt="aditya-devp" width="400px" height="200px" margin="0 0 0 0" />
 </div>
 <div style="float: centre;">
-  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=aditya-devp&&theme=tokyonight" alt="aditya-devp" width="400px" height="200px" margin="0 0 0 0" />
+  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=aditya-devp&&theme=tokyonight" alt="aditya-devp" width="400px" height="210px" margin="0 0 0 0" />
 </div>
 
 <br>
