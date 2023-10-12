@@ -1,7 +1,7 @@
 <img src=https://camo.githubusercontent.com/f7894ccfe5f969fc2ef0c0023ae611e88da80b9381f0b90360d58b158d27593b/68747470733a2f2f692e696d6775722e636f6d2f344153616679302e706e67>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aditya-devp&label=Profile%20views&color=0e75b6&style=flat" alt="aditya-devp" /> </p>
 <h1 align="center">Welcome to my profile.<br>
-Hii there, Aditya this side Great to see you here!<img src="https://raw.githubusercontent.com/Rishabh2804/Rishabh2804/master/Resources/wave.gif" height="50" alt="Waving hand animated gif"</h1>
+Hii there, Aditya this side Great to see you here!</h1>
 <h2 align="Center">Competitive Coder||Web Developer||An Autodidact😁</h2>
 <!-- <img align="left" alt= "Coding" width="300" src="https://camo.githubusercontent.com/ce3a4e7a6ec90f401d6dfd4865da0cc60f0647ee1dec12eb62550e489346f825/68747470733a2f2f7777772e636f6465636f726e6572732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f30352f73656e696f722d66726f6e742d656e642d646576656c6f7065722d6f70656e696e67732d312e676966"/><br> -->
 
