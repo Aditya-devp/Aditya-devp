@@ -1,8 +1,8 @@
 <img src=https://camo.githubusercontent.com/f7894ccfe5f969fc2ef0c0023ae611e88da80b9381f0b90360d58b158d27593b/68747470733a2f2f692e696d6775722e636f6d2f344153616679302e706e67>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aditya-devp&label=Profile%20views&color=0e75b6&style=flat" alt="aditya-devp" /> </p>
-<h1 align="center">Welcome to my profile.<br>
-Hii there, Aditya this side Great to see you here!</h1>
-<h2 align="Center">Competitive Coder||Web Developer||An Autodidact😁</h2>
+
+<h1 align="Center">Hii there, Aditya this side Great to see you here!</h1>
+<!-- <h2 align="Center">Competitive Coder||Web Developer||An Autodidact😁</h2> -->
 <!-- <img align="left" alt= "Coding" width="300" src="https://camo.githubusercontent.com/ce3a4e7a6ec90f401d6dfd4865da0cc60f0647ee1dec12eb62550e489346f825/68747470733a2f2f7777772e636f6465636f726e6572732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f30352f73656e696f722d66726f6e742d656e642d646576656c6f7065722d6f70656e696e67732d312e676966"/><br> -->
 
 I'm a Computer Science student with a genuine passion for coding and a curiosity for development. Currently a senior in college, I'm dedicated to honing my skills and embracing growth in the tech world.
@@ -42,10 +42,13 @@ I'm a Computer Science student with a genuine passion for coding and a curiosity
 
 <h2>Stats📊📊</h2>
 
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aditya-devp&show_icons=true&theme=merko&locale=en" alt="aditya-devp"/></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aditya-devp&&theme=tokyonight" alt="aditya-devp" /></p>
-
-  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aditya-devp&theme=radical" alt="aditya-devp" /></a> </p>
+  <div style="float: left; width: 50%; margin: 0 10px 0 0;">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=aditya-devp&show_icons=true&theme=merko&locale=en" alt="aditya-devp"/>
+</div>
+<div style="float: right; width: 50%; margin: 0 0 0 10px;">
+  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=aditya-devp&&theme=tokyonight" alt="aditya-devp" />
+</div>
+  <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aditya-devp&theme=radical" alt="aditya-devp" /></a> </p>
 
 <!---
 Aditya-devp/Aditya-devp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
