@@ -1,4 +1,4 @@
-<img src=https://camo.githubusercontent.com/f7894ccfe5f969fc2ef0c0023ae611e88da80b9381f0b90360d58b158d27593b/68747470733a2f2f692e696d6775722e636f6d2f344153616679302e706e67>
+<img src="https://camo.githubusercontent.com/f7894ccfe5f969fc2ef0c0023ae611e88da80b9381f0b90360d58b158d27593b/68747470733a2f2f692e696d6775722e636f6d2f344153616679302e706e67"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aditya-devp&label=Profile%20views&color=0e75b6&style=flat" alt="aditya-devp" /> </p>
 
 <h1 align="Center">Hii there, Aditya this side Great to see you here!</h1>
