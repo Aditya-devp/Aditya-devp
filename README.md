@@ -41,13 +41,15 @@ I'm a Computer Science student with a genuine passion for coding and a curiosity
 [![@executioner_a's Holopin board ](https://holopin.me/executioner_a)](https://holopin.io/@executioner_a)
 
 <h2>Stats📊📊</h2>
+<div style="float: left;">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=aditya-devp&show_icons=true&theme=merko&locale=en" alt="aditya-devp" width="400px" height="200px" margin="0 0 0 0" />
+</div>
+<div style="float: centre;">
+  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=aditya-devp&&theme=tokyonight" alt="aditya-devp" width="400px" height="200px" margin="0 0 0 0" />
+</div>
 
-  <div style="float: left; width: 50%; margin: 0 10px 0 0;">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=aditya-devp&show_icons=true&theme=merko&locale=en" alt="aditya-devp"/>
-</div>
-<div style="float: right; width: 50%; margin: 0 0 0 10px;">
-  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=aditya-devp&&theme=tokyonight" alt="aditya-devp" />
-</div>
+<br>
+
   <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aditya-devp&theme=radical" alt="aditya-devp" /></a> </p>
 
 <!---
