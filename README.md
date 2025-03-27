@@ -1,4 +1,4 @@
-<img src="https://github.com/txaty/txaty/blob/main/assets/background.jpeg?raw=true"/>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aditya-devp&label=Profile%20views&color=0e75b6&style=flat" alt="aditya-devp" /> </p>
 
 <h1 align="Center">Hii there, Aditya this side Great to see you here!</h1>
